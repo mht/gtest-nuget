@@ -1,0 +1,6 @@
+[submodule "gtest"]
+	path = gtest
+	url = git@github.com:mht/gtest-mirror.git
+[submodule "gmock"]
+	path = gmock
+	url = git@github.com:mht/gmock-mirror.git
